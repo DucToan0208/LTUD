@@ -1,0 +1,13 @@
+D:\DinhHongThai\bin\Debug\DinhHongThai.exe.config
+D:\DinhHongThai\bin\Debug\DinhHongThai.exe
+D:\DinhHongThai\bin\Debug\DinhHongThai.pdb
+D:\DinhHongThai\obj\Debug\DinhHongThai.csproj.AssemblyReference.cache
+D:\DinhHongThai\obj\Debug\DinhHongThai.csproj.SuggestedBindingRedirects.cache
+D:\DinhHongThai\obj\Debug\DinhHongThai.frmMain.resources
+D:\DinhHongThai\obj\Debug\DinhHongThai.frmChucNang.resources
+D:\DinhHongThai\obj\Debug\DinhHongThai.Properties.Resources.resources
+D:\DinhHongThai\obj\Debug\DinhHongThai.csproj.GenerateResource.cache
+D:\DinhHongThai\obj\Debug\DinhHongThai.csproj.CoreCompileInputs.cache
+D:\DinhHongThai\obj\Debug\DinhHongThai.exe
+D:\DinhHongThai\obj\Debug\DinhHongThai.pdb
+D:\DinhHongThai\obj\Debug\DinhHongThai.frmTimKiem.resources
